@@ -1,11 +1,50 @@
-- 👋 Hi,My name is Abhishek Singh, I am a 4th year computer science undergraduate from GL Bajaj Institute of Technology and Management
-- 👀  I am a highly skilled frontend developer who excels at bringing designs to life on the web. I have a deep understanding of the latest frontend technologies, including HTML, CSS, Tailwind CSS, JavaScript and React JS.
-- 🌱 Currently I'm learning Node JS. I'm enhancing my knowledge in backend by learning Node JS and my aim is to become a full stack developer.
-Moreover I've a good knowledge of flutter and have made some basic applications which are compatible with both iOS and android based platforms.
-- 💞️ I’m looking to collaborate on some open source project
-- 📫 How to reach me ...mail to: abhisheksingh90627@gmail.com
+# 💫 About Me:
+<h1 align="center"> 
+    <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=ffffff&vCenter=true&center=true&width=460&lines=Hi👋,+I'm+Abhishek;Software+Engineer;Frontend+Developer">
+</h1>
 
-<!---
-abhi4267/abhi4267 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+
+
+
+💬 Ask me about data structures & algorithms.<br> 🔭I’m currently working on MERN stack project.<br>🌱 I’m currently learning react and backend technologies.
+
+_generated with [abhi4267/abhi4267](https://github.com/abhi4267/abhi4267)_
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)
+
+
+
+## 🌐 Socials:
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankur_3699) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/abhishek-singh-b46994202/)) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Abhishe01078258) 
+ <div align="left">
+    <img style=" width: 375px;" src="https://leetcard.jacoblin.cool/abhi_singh02?theme=light&font=Noto%20Sans%20Math" />
+</div>
+
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=mdazlaanzubair&icon=3&color=5)](https://visitcount.itsvg.in)
+
+## 📊 GitHub Stats:
+<div align="left" >
+  <img style ="width:376px;margin:10px" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=light&locale=en&hide_border=true&username=abhi4267" alt="stats graph"/>
+  <img style ="width:400px; margin:10px" src = "https://github-readme-streak-stats.herokuapp.com/?user=abhi4267&theme=light&hide_border=true&margin-10"/>
+</div>
+
+## 📈 Productivity Stats:
+
+<div align="left" >
+ <img style="width:795px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi4267&theme=github"  display=block width=100% height=auto  alt="profile-summary" >
+<div>
+
+
+## Watch snake eating my github contributions 
+
+ 
+![snake gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-contribution-grid-snake.svg)
+
+
+ 
+  
